@@ -1,0 +1,10 @@
+messages:
+  commands:
+    feed:
+      success: "&aYour hunger has been satisfied!"
+      others:
+        success: "&aYou feeded &e{target}&a."
+  errors:
+    insufficient-permissions: "&cYou don't have permission to do that."
+    player-not-found: "&cPlayer not found!"
+    player-only-command: "&cThis command is only available in-game"

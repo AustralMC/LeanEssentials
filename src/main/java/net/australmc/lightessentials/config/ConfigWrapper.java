@@ -3,8 +3,6 @@ package net.australmc.lightessentials.config;
 import com.google.inject.Inject;
 import lombok.RequiredArgsConstructor;
 import net.australmc.lightessentials.utils.PlaceholderReplacer;
-import org.apache.commons.lang.text.StrSubstitutor;
-import org.bukkit.ChatColor;
 import org.bukkit.configuration.file.FileConfiguration;
 import org.jetbrains.annotations.NotNull;
 
